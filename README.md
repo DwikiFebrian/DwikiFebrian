@@ -1,4 +1,5 @@
-![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDcwbG1qN3d6OWt2YTh4a21mY3loMXlsdDNzenF0MGw1aDhva215ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b018SvPzAauSrfr2X8/giphy.gif)
+####
+![https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDcwbG1qN3d6OWt2YTh4a21mY3loMXlsdDNzenF0MGw1aDhva215ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b018SvPzAauSrfr2X8/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RlbjVqbjE5dDQyaTQ2ZHpwamM5c3k5NW1wejZsMzd3bm9ibGFycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cd7Y7tJ4pHbGM/giphy.gif)
 
 ### 💫 About Me:
 -🔭I’m a third-year Mathematics student at Universitas Indonesia.<br>-🌱 I’m currently learning **machine learning** techniques and **Computational Science**.
@@ -18,8 +19,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DwikiFebrian&icon=0&color=0)](https://visitcount.itsvg.in)
-
-###
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
